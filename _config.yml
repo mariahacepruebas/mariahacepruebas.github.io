@@ -1,15 +1,12 @@
 markdown: kramdown
 remote_theme: benbalter/retlab
 
-title: Ma
-description: Attorney, open source developer, product manager
+title: La lista de Regalos de Maria
+description: Muchas gracias :)
 
 lang: en-US
 
 # Pages to include in header navigation
 nav_pages:
   - index.html
-  - talks.md
-  - press.md
-  - about.md
-  - contact.md
+  - mistallas.md
